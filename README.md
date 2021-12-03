@@ -1,1 +1,1 @@
-# 2-nd-part.
+# ObjektProg2
